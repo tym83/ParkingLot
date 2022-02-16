@@ -1,2 +1,2 @@
 # ParkingLot
-{roject from JetBrains Academy
+Project from JetBrains Academy
